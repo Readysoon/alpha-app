@@ -6,6 +6,6 @@ app = FastAPI()
 
 @app.get("/")
 async def hello_fly():
-    return 'hello from fly.io'
+    return 'hel from fly.io'
 
 
